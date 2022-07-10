@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/gymamsee.zapto.org",
     "slug": "asg-netman",
     "status": "down",
-    "uptime": "74.43%",
+    "uptime": "70.11%",
     "uptimeDay": "72.77%",
-    "uptimeWeek": "74.43%",
-    "uptimeMonth": "74.43%",
-    "uptimeYear": "74.43%",
+    "uptimeWeek": "70.11%",
+    "uptimeMonth": "70.11%",
+    "uptimeYear": "70.11%",
     "time": 850,
     "timeDay": 856,
     "timeWeek": 850,
     "timeMonth": 850,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2022-07-09": 276,
+      "2022-07-10": 21,
+      "2022-07-09": 392,
       "2022-07-08": 296
     }
   }
